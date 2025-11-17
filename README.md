@@ -1,5 +1,5 @@
 <!-- PROJECT HEADER -->
-<h1 align="center">🚀 Machine Learning Pipeline for Activity Tracking</h1>
+<h1 align="center">🚀 A Data Analytics-Based System for Proactive Student Performance Monitoring and Personalized Learning Interventions</h1>
 <p align="center">
   <i>End-to-End Modeling • Visualization • Explainability • SHAP • XGBoost • Random Forest</i>
 </p>
@@ -110,8 +110,7 @@ Add Docker support
 👨‍💻 Author
 
 Sahil
-📧 [Add your email here]
-🌐 [Add your website or GitHub link here]
+BE CSE AIML
 
 📜 License & Copyright
 
